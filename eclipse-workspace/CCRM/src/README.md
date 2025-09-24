@@ -113,10 +113,10 @@ Mapping Table (Topic → Implementation)
 
 Screenshots: 
 
-![Java Version](Screenshots/java_version.png)
-![Eclipse Packages](Screenshots/eclipse_packages.png)
+![Java Version](Screenshots/Java version.png)
+![Eclipse Packages](Screenshots/Eclipse_packages.png)
 ![CLI Run](Screenshots/Cli_run.png)
-![Backup Folder](Screenshots/backup and export.png)
+![Backup Folder](Screenshots/Backup and export.png)
 	
 
 
